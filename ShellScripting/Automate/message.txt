@@ -1,9 +1,0 @@
-To: adubey@snapsystems.in;rparihar@snapsystems.in;vshinde@snapsystems.in;nmarkam@snapsystems.in
-From: asharma@snapsystems.in
-Subject: Celebration day reminder!!
-Cc: asharma@snapsystems.in
-Last day of the Month,lets celebrate!!!
-
-Setting up test email to be generated every last day of the month.
-
-Enjoy and have a nice day!
