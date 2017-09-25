@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sudo find -iname '*.c' > out.txt
+if [ -s out.txt ]
+then
+echo "File Exists"
+else
+echo "No Results!!"
+fi
+

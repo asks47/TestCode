@@ -1,0 +1,2 @@
+#to create file, make it executable and run in one line
+echo $'#!/bin/bash/\necho hello world' > loop2.sh && sudo chmod +x loop2.sh && sh loop2.sh
